@@ -1,5 +1,7 @@
 # vue-weather
 
+# src file are in public file
+
 ## Project setup
 ```
 yarn install
